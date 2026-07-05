@@ -48,7 +48,7 @@ src/
 ---
 
 **Repositorio GitHub:** https://github.com/claudioaguilar96/Semana-7-Llanquihue-Tour-App
-**Fecha de entrega:** Junio 2026
+**Fecha de entrega:** Julio 2026
 
 ---
 
